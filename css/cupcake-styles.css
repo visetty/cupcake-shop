@@ -21,11 +21,13 @@ p.flashy{
 table.flashy{
   color: red;
   font-style: italic;
+  font-size: 20px;
 }
 ul.variety{
   color: #906;
   font-weight: bold;
   font-family: serif;
+  font-size: 20px;
 }
 .important{
   font-weight: bold;
@@ -34,4 +36,7 @@ ul.variety{
 table{
   border: 1;
   width: 100%;
+}
+body{
+  background-color: #FFD700;
 }
