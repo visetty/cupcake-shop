@@ -26,3 +26,7 @@ ul.variety{
   font-weight: bold;
   font-family: serif;
 }
+.important{
+  font-weight: bold;
+  color: #444;
+}
