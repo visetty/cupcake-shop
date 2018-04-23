@@ -30,3 +30,7 @@ ul.variety{
   font-weight: bold;
   color: #444;
 }
+table{
+  border: 1;
+  width: 100%;
+}
