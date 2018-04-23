@@ -1,8 +1,15 @@
-h1{color: #827;
+h1{
+  color: #827;
   font-style: normal;
   font-size: 50px;
 }
-h2{color: #855;
+h2{
+  color: #855;
   font-size: 40px;
   font-style: normal;
+}
+p{
+  color: #444;
+  font-family: serif;
+  font-size: 20px;
 }
