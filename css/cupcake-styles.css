@@ -21,3 +21,8 @@ table.flashy{
   color: red;
   font-style: italic;
 }
+ul.variety{
+  color: #935;
+  font-weight: bold;
+  font-family: serif;
+}
